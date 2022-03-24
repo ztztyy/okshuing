@@ -5,7 +5,7 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-UUID=9f030483-2861-4bff-b9d7-b5410b2477d7
+UUID=ae56b39f-cbdd-4dbd-8af2-313b8349b01d
 WSPATH=/vless
 PORT=80
 
